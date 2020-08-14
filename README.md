@@ -7,9 +7,9 @@ Session 1:
 
 Session 2: 
 7 August 2020
-Train/test split for regression
+- Train/test split for regression
 - Cross-validation
-Regularized regression
+- Regularized regression
 - Overfitting
 - Ridge regression
 - Lasso regression
