@@ -6,7 +6,7 @@ MY YOUTUBE TUTORIALS
 - Regularized regression and overfitting: https://youtu.be/VmxP7QTVh00
 - Classification and K-Nearest Neighbours: https://youtu.be/ZbVPmjDaCFg
 - Unsupervised Learning - Clustering: https://youtu.be/fqssd7g-mtY
-
+Make sure to subscribe to my Youtube channel and enable notifications so you will get notified next time I upload a video!
 
 
 Session 1: 
@@ -33,3 +33,11 @@ Session 3:
 - Confusion matrix
 - K-Nearest Neighbours
 - KNN classifier in Pyhton
+
+Session 4: 
+21 August 2020
+- K-Means Clustering
+- Elbow Method
+- SpectralClustering estimator
+- MiniBatchKMeans
+- k-means for color compression¶
