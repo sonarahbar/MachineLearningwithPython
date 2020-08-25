@@ -42,4 +42,4 @@ Unsupervised Learning-1 - Clustering
 - Elbow Method
 - SpectralClustering estimator
 - MiniBatchKMeans
-- k-means for color compression¶
+- K-means for color compression¶
