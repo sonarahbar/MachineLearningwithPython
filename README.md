@@ -16,6 +16,7 @@ Make sure to subscribe to my YouTube channel and enable notifications so you wil
  - How to build a regression model with Python?
  
  Code availabe at this [link](Ml_S1_31July2020.ipynb)
+ 
  Video available at this [link](https://youtu.be/e0eyE4m238o)
 
 ## Session 2-1:  ##
