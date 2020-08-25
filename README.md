@@ -16,20 +16,21 @@ Make sure to subscribe to my YouTube channel and enable notifications so you wil
  - How to build a regression model with Python?
  
  Code availabe at this [link](Ml_S1_31July2020.ipynb)
+ Video available at this [link](https://youtu.be/e0eyE4m238o)
 
-Session 2-1: 
+## Session 2-1:  ##
 7 August 2020
 - Train/test split for regression
 - Cross-validation
 
-Session 2-2: 
+## Session 2-2:  ##
 7 August 2020
 - Regularized regression
 - Overfitting
 - Ridge regression
 - Lasso regression
 
-Session 3: 
+## Session 3:  ## 
 14 August 2020
 - Classification
 - Feature scaling
@@ -37,7 +38,7 @@ Session 3:
 - K-Nearest Neighbours
 - KNN classifier in Pyhton
 
-Session 4: 
+## Session 4:   ## 
 21 August 2020
 Unsupervised Learning-1 - Clustering 
 - K-Means Clustering
