@@ -7,7 +7,7 @@ MY YOUTUBE TUTORIALS
 - Classification and K-Nearest Neighbours: https://youtu.be/ZbVPmjDaCFg
 - Unsupervised Learning - Clustering: https://youtu.be/fqssd7g-mtY
 
-Make sure to subscribe to my YouTube channel and enable notifications so you will get notified next time I upload a video!
+🔺 Make sure to subscribe to my YouTube channel and enable notifications so you will get notified next time I upload a video!🔺
 
 # Content #
 ## Session 1: ##
@@ -53,11 +53,11 @@ Make sure to subscribe to my YouTube channel and enable notifications so you wil
 - K-Nearest Neighbours
 - KNN classifier in Pyhton
 
- Code availabe at this [link](Ml_S1_31July2020.ipynb)
+ Code availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S3-14AUG.ipynb)
  
- Slides availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_1%2031July2020.pdf)
+ Slides availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S3_14AUG2020.pdf)
  
- Video available at this [link](https://youtu.be/e0eyE4m238o)
+ Video available at this [link](https://youtu.be/ZbVPmjDaCFg)
 
 ## Session 4:   ## 
 21 August 2020
@@ -68,8 +68,8 @@ Unsupervised Learning-1 - Clustering
 - MiniBatchKMeans
 - K-means for color compression¶
 
- Code availabe at this [link](Ml_S1_31July2020.ipynb)
+ Code availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S4_21AUG2020.ipynb)
  
- Slides availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_1%2031July2020.pdf)
+ Slides availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S4_21AUG2020.pdf)
  
- Video available at this [link](https://youtu.be/e0eyE4m238o)
+ Video available at this [link](https://youtu.be/fqssd7g-mtY)
