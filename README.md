@@ -17,6 +17,8 @@ Make sure to subscribe to my YouTube channel and enable notifications so you wil
  
  Code availabe at this [link](Ml_S1_31July2020.ipynb)
  
+ Slides availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_1%2031July2020.pdf)
+ 
  Video available at this [link](https://youtu.be/e0eyE4m238o)
 
 ## Session 2-1:  ##
@@ -24,12 +26,24 @@ Make sure to subscribe to my YouTube channel and enable notifications so you wil
 - Train/test split for regression
 - Cross-validation
 
+ Code availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S2-7AUG2020.pdf)
+ 
+ Slides availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S2-7AUG2020.pdf)
+ 
+ Video available at this [link](https://youtu.be/Hpjgr3oholE)
+
 ## Session 2-2:  ##
 7 August 2020
 - Regularized regression
 - Overfitting
 - Ridge regression
 - Lasso regression
+
+ Code availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S2-7AUG2020.ipynb)
+ 
+ Slides availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S2-7AUG2020.pdf)
+ 
+ Video available at this [link](https://youtu.be/VmxP7QTVh00)
 
 ## Session 3:  ## 
 14 August 2020
@@ -39,6 +53,12 @@ Make sure to subscribe to my YouTube channel and enable notifications so you wil
 - K-Nearest Neighbours
 - KNN classifier in Pyhton
 
+ Code availabe at this [link](Ml_S1_31July2020.ipynb)
+ 
+ Slides availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_1%2031July2020.pdf)
+ 
+ Video available at this [link](https://youtu.be/e0eyE4m238o)
+
 ## Session 4:   ## 
 21 August 2020
 Unsupervised Learning-1 - Clustering 
@@ -47,3 +67,9 @@ Unsupervised Learning-1 - Clustering
 - SpectralClustering estimator
 - MiniBatchKMeans
 - K-means for color compression¶
+
+ Code availabe at this [link](Ml_S1_31July2020.ipynb)
+ 
+ Slides availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_1%2031July2020.pdf)
+ 
+ Video available at this [link](https://youtu.be/e0eyE4m238o)
