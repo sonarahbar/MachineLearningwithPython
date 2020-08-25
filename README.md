@@ -13,7 +13,7 @@ MY YOUTUBE TUTORIALS
 
 First you need to install Jupyter Notebook
 
-[Installing Jupyter via Anaconda] (https://t.me/machinelearningir/45)
+[Installing Jupyter via Anaconda](https://t.me/machinelearningir/45)
 
 ## Session 1: ##
 31 July 2020
