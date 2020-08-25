@@ -1,5 +1,14 @@
 # Machine Learning with Python
 ## By Dr. Maryam Rahbaralam
+MY YOUTUBE TUTORIALS
+- Regression model with Python: https://youtu.be/e0eyE4m238o
+- Train/test split for regression and Cross-validation: https://youtu.be/Hpjgr3oholE
+- Regularized regression and overfitting: https://youtu.be/VmxP7QTVh00
+- Classification and K-Nearest Neighbours: https://youtu.be/ZbVPmjDaCFg
+- Unsupervised Learning - Clustering: https://youtu.be/fqssd7g-mtY
+
+
+
 Session 1: 
 31 July 2020
  - Introduction to machine learning
