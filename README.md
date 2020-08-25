@@ -61,7 +61,7 @@ MY YOUTUBE TUTORIALS
 
 ## Session 4:   ## 
 21 August 2020
-Unsupervised Learning-1 - Clustering 
+- Unsupervised Learning-1 - Clustering 
 - K-Means Clustering
 - Elbow Method
 - SpectralClustering estimator
