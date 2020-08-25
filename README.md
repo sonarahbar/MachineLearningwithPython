@@ -14,6 +14,7 @@ Session 1:
 31 July 2020
  - Introduction to machine learning
  - How to build a regression model with Python?
+ Code availabe at this [link](Ml_S1_31July2020.ipynb)
 
 Session 2-1: 
 7 August 2020
