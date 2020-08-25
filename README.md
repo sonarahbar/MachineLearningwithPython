@@ -10,6 +10,10 @@ MY YOUTUBE TUTORIALS
 🔺 Make sure to subscribe to my YouTube channel and enable notifications so you will get notified next time I upload a video!🔺
 
 # Content #
+
+First you need to install Jupyter Notebook
+[Installing Jupyter via Anaconda] https://t.me/machinelearningir/45
+
 ## Session 1: ##
 31 July 2020
  - Introduction to machine learning
