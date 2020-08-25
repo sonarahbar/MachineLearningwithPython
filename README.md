@@ -9,8 +9,8 @@ MY YOUTUBE TUTORIALS
 
 Make sure to subscribe to my YouTube channel and enable notifications so you will get notified next time I upload a video!
 
-
-Session 1: 
+# Content #
+## Session 1: ##
 31 July 2020
  - Introduction to machine learning
  - How to build a regression model with Python?
