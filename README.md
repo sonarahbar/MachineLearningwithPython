@@ -89,8 +89,10 @@ First you need to install Jupyter Notebook
 - Singular Value Decomposition (SVD)
 - PCA in Python
 
- Code availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S4_21AUG2020.ipynb)
+ Code availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S5_28AUG2020_PCA-EX1.ipynb)
+ and [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S5_28AUG2020_PCA-EX2.ipynb)
  
- Slides availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S4_21AUG2020.pdf)
+ 
+ Slides availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S5_28AUG2020_PCA.pdf)
  
  Video available at this [link](https://youtu.be/yFtpz54RGuA)
