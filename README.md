@@ -6,6 +6,8 @@ MY YOUTUBE TUTORIALS
 - Regularized regression and overfitting: https://youtu.be/VmxP7QTVh00
 - Classification and K-Nearest Neighbours: https://youtu.be/ZbVPmjDaCFg
 - Unsupervised Learning - Clustering: https://youtu.be/fqssd7g-mtY
+- Principal component analysis(PCA): https://youtu.be/yFtpz54RGuA
+
 
 🔺 Make sure to subscribe to my YouTube channel and enable notifications so you will get notified next time I upload a video!🔺
 
@@ -78,3 +80,17 @@ First you need to install Jupyter Notebook
  Slides availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S4_21AUG2020.pdf)
  
  Video available at this [link](https://youtu.be/fqssd7g-mtY)
+ 
+ ## Session 5:   ## 
+28 August 2020
+- Principal component analysis (PCA)
+- Dimensionality reduction
+- COVARIANCE MATRIX
+- Singular Value Decomposition (SVD)
+- PCA in Python
+
+ Code availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S4_21AUG2020.ipynb)
+ 
+ Slides availabe at this [link](https://github.com/sonarahbar/MachineLearningwithPython/blob/master/Ml_S4_21AUG2020.pdf)
+ 
+ Video available at this [link](https://youtu.be/yFtpz54RGuA)
